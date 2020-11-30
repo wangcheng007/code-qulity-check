@@ -1,10 +1,10 @@
 {
-  "name": "@wangcheng007/code-qulity-check",
-  "version": "1.0.7",
+  "name": "code-qulity-check",
+  "version": "0.0.1",
   "description": "my test example",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "author": "",
   "license": "ISC",
