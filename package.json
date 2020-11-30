@@ -1,5 +1,5 @@
 {
-  "name": "code-qulity-check",
+  "name": "@baozi/code-qulity-check",
   "version": "1.0.4",
   "description": "my test example",
   "main": "index.js",
