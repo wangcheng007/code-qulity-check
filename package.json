@@ -1,6 +1,6 @@
 {
   "name": "code-qulity-check",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "my test example",
   "main": "index.js",
   "scripts": {
